@@ -1,0 +1,24 @@
+{
+  "name": "eco-sim",
+  "version": "1.0.0",
+  "description": "feudal age economy simulation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasReichhardt/eco-sim.git"
+  },
+  "author": "Jonas Reichhardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonasReichhardt/eco-sim/issues"
+  },
+  "homepage": "https://github.com/JonasReichhardt/eco-sim#readme"
+}
